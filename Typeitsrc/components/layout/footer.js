@@ -6,7 +6,7 @@ export default function Footer() {
         <footer className="footer">
         <div className="content has-text-centered">
         <p>
-        <strong>Typeit</strong> by <a href="https://ashhad.me">Ashhad</a>
+        <strong>TypeIt Software</strong> by <a href="https://www.linkedin.com/in/anay-baid-6768901a7/">Anay</a>
         </p>
         </div>
         </footer>
